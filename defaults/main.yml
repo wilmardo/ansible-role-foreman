@@ -11,7 +11,6 @@ foreman_admin_password: p3tj7WgwjOsx4v6HLu
 foreman_admin_first_name: Admin
 foreman_admin_last_name: Admin
 foreman_admin_email: "root@{{ ansible_domain }}"
-foreman_db_type: postgresql
 foreman_selinux: true
 foreman_passenger: true
 foreman_unattended: true
